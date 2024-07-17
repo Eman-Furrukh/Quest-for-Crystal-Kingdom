@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DELL\source\repos\proj2\Source.cpp(376,9): warning C4101: 'path': unreferenced local variable
+C:\Users\DELL\source\repos\proj2\Source.cpp(428,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL\source\repos\proj2\Source.cpp(666,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  proj2.vcxproj -> C:\Users\DELL\source\repos\proj2\x64\Debug\proj2.exe
